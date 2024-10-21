@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "phpviet/number-to-words": "^1.2"
+        "huuloc4193/number-to-words": "^1.2"
     },
     "autoload": {
         "files": [
