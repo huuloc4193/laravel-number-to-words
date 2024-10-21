@@ -14,11 +14,7 @@
         }
     ],
     "require": {
-        "phpviet/number-to-words": "^1.2",
-        "illuminate/support": "^6.0 || ^7.0 || ^8.0"
-    },
-    "require-dev": {
-        "orchestra/testbench": "^4.0 || ^5.0 || ^6.0"
+        "phpviet/number-to-words": "^1.2"
     },
     "autoload": {
         "files": [
